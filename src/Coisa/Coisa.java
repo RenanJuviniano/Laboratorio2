@@ -1,4 +1,4 @@
-package lab2;
+package Coisa;
 
 public class Coisa {
     public static void main(String[] args) {
