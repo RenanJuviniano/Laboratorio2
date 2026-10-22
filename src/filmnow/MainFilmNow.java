@@ -87,7 +87,7 @@ public class MainFilmNow {
      * @param fn O sistema FilmNow a ser manipulado.
      */
     private static void mostrarFilmes(FilmNow fn) {
-
+        //testando commit
         String[] filmes = fn.mostrarFilmes();
         for (int i = 0; i < filmes.length; i++) {
             if (filmes[i] != null) {
